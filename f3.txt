@@ -3,3 +3,10 @@ hr u
 manager
 hr 
 student
+teacher
+madam
+class
+date
+days
+monday
+tuesday
