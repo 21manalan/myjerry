@@ -10,3 +10,10 @@ date
 days
 monday
 tuesday
+devops class
+monster
+class classic
+classical
+putty
+quality
+
