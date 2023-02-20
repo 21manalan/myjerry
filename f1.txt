@@ -6,3 +6,4 @@ my computer change
 my change remo
 ec2-user
 change in commit
+change ec2
