@@ -1,6 +1,4 @@
 hello
 h r u 
 jerry
- pack 
-man
-woman
+n:wq
