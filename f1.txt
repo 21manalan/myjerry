@@ -3,7 +3,4 @@ h r u
 jerry
 n:wq
 my computer change
-my change remo
-ec2-user
-change in commit
-change ec2
+my python
